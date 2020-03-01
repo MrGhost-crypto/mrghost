@@ -1,4 +1,4 @@
-# Dark fb v 2.1 new
+# Dark v 2.1 new
 
 cara menggunakan script saya :
 
@@ -25,4 +25,5 @@ cara menggunakan script saya :
 ● python2 darkfbv2.1.py
 
 Gunakan script ini untuk membantu orang jangan di salah gunakan.
-ttd : Mr.Ghost
+
+            ttd : Mr.Ghost
