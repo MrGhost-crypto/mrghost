@@ -22,6 +22,8 @@ cara menggunakan script saya :
 
 ● ls
 
+● chmod +x darkv2.1.py
+
 ● python2 darkfbv2.1.py
 
 Gunakan script ini untuk membantu orang jangan di salah gunakan.
